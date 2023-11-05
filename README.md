@@ -1,1 +1,1 @@
-The repository for Meta React Native Developer Specialization Capstone
+This is a repository for Meta React Native Developer Specialization Capstone
